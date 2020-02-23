@@ -1,0 +1,16 @@
+div {
+    padding: 10px;    
+}
+
+.message {
+   border: solid 1px #F2CB05; 
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 10px;
+   margin: 10px;
+   background-color: #8245BF;
+}
+
+.phrase {
+    color: #05F29B;
+    font-style: italic;    
+}
